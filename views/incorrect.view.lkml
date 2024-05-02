@@ -5,6 +5,6 @@ view: mess {
   dimension: id {
     primary_key: yes
     type: number
-    sql: ${TABLE}.i
+    sql: ${TABLE}.id;;
   }
 }
